@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz16_06", "dz16_06\dz16_06.csproj", "{5D35F119-0B04-4970-B4DF-F71048C72AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_Models", "Models\Game_Models.csproj", "{A70BEAE2-619D-4C66-B432-C05815BAB760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_Data", "Game.Data\Game_Data.csproj", "{BE600F95-0C64-463D-A0CB-BED1B2963B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D35F119-0B04-4970-B4DF-F71048C72AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D35F119-0B04-4970-B4DF-F71048C72AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D35F119-0B04-4970-B4DF-F71048C72AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D35F119-0B04-4970-B4DF-F71048C72AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70BEAE2-619D-4C66-B432-C05815BAB760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70BEAE2-619D-4C66-B432-C05815BAB760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70BEAE2-619D-4C66-B432-C05815BAB760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70BEAE2-619D-4C66-B432-C05815BAB760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE600F95-0C64-463D-A0CB-BED1B2963B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE600F95-0C64-463D-A0CB-BED1B2963B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE600F95-0C64-463D-A0CB-BED1B2963B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE600F95-0C64-463D-A0CB-BED1B2963B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EECECF02-45F3-4B2B-8CC3-991A3BCED8A2}
+	EndGlobalSection
+EndGlobal
